@@ -17,5 +17,8 @@ class FoldablePhone(isScreenLightOn: Boolean = false) : Phone(isScreenLightOn) {
         isFoldable = false
     }
 
-}
 
+}
+fun main(){
+
+}
